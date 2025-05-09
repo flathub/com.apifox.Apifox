@@ -1,10 +1,10 @@
 app-id: com.apifox.Apifox
 runtime: org.freedesktop.Platform
-runtime-version: "24.08"
+runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 command: apifox
 base: org.electronjs.Electron2.BaseApp
-base-version: "24.08"
+base-version: '24.08'
 finish-args:
   - --share=ipc
   - --share=network
@@ -40,8 +40,8 @@ modules:
         only-arches:
           - x86_64
         url: https://file-assets.apifox.com/download/Apifox-linux-deb-latest.zip
-        sha256: 43f9d1fb4f3cdef40b36a4ba21ca49eb2b7563b8eec73b319ad39cf7144ea950
-        size: 156073355
+        sha256: 6f5c1d8bce8b1f7da99fec1883fc52e83111564374abc331f4e48097e94c24b3
+        size: 161304107
         x-checker-data:
           type: rotating-url
           url: https://file-assets.apifox.com/download/Apifox-linux-deb-latest.zip
@@ -50,8 +50,8 @@ modules:
         only-arches:
           - aarch64
         url: https://file-assets.apifox.com/download/Apifox-linux-arm64-deb-latest.zip
-        sha256: 78198aa0e5e8d81954de7dfa39845d6344b511db1439039272416d66bfb759b3
-        size: 153306961
+        sha256: 913650c4ede70b43f10d48879ca9cd6ab77e8bf7beabfb37a89a96fb6b837f76
+        size: 154700825
         x-checker-data:
           type: rotating-url
           url: https://file-assets.apifox.com/download/Apifox-linux-arm64-deb-latest.zip
