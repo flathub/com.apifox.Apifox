@@ -22,7 +22,7 @@ modules:
     sources:
       - type: script
         commands:
-          - unzip apifox.zip
+          - unzip -q apifox.zip
           - bsdtar -O -xf apifox*.deb data.* | bsdtar --no-same-owner -xf -
           - mv opt/Apifox .
           - rm -rf apifox.zip apifox*.deb opt usr
