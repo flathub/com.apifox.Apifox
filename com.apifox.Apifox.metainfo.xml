@@ -42,6 +42,9 @@
     <category>Network</category>
   </categories>
   <releases>
+    <release version="2.7.46" date="2025-10-26">
+      <url>https://docs.apifox.com/changelog</url>
+    </release>
     <release version="2.7.45-alpha.3" date="2025-10-21">
       <url>https://docs.apifox.com/changelog</url>
     </release>
