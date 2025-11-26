@@ -53,4 +53,9 @@
     </release> 
   </releases>
   <content_rating type="oars-1.1"/>
+  <keywords>
+    <keyword>postman wrapper</keyword>
+    <keyword>api mock tool</keyword>
+    <keyword>swagger proxy</keyword>
+  </keywords>
 </component>
