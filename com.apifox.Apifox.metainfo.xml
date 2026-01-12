@@ -12,8 +12,8 @@
   <url type="homepage">https://apifox.com/</url>
   <url type="help">https://docs.apifox.com/help</url>
   <description>
+    <p>**NOTE: This wrapper is NOT verified by, affiliated with, or supported by Apifox Team.**</p>
     <p>Apifox = Postman + Swagger + Mock + JMeter</p>
-    <p><em>NOTE:</em> This wrapper is NOT verified by, affiliated with, or supported by Apifox Team.</p>
   </description>
   <screenshots>
     <screenshot type="default">
