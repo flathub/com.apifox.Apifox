@@ -41,8 +41,8 @@ modules:
         only-arches:
           - x86_64
         url: https://file-assets.apifox.com/download/Apifox-linux-deb-latest.zip
-        sha256: a664114fcfe005679c20978a7bc9fddf3f3248383541b224b5ee55900b28b281
-        size: 156324086
+        sha256: c206de42608d67ab6672d287b2945f7308319bc42b923ef27fb5095064ff3121
+        size: 158491136
         x-checker-data:
           type: rotating-url
           url: https://file-assets.apifox.com/download/Apifox-linux-deb-latest.zip
@@ -51,8 +51,8 @@ modules:
         only-arches:
           - aarch64
         url: https://file-assets.apifox.com/download/Apifox-linux-arm64-deb-latest.zip
-        sha256: efce80f69b5f99c14efd00eafa50b7e075357e1487d785ccc266e95e367a979f
-        size: 120824953
+        sha256: e6ea0e574863655970735ae02ced2fbc524af0794af4cb13076525ecb94afa7e
+        size: 124026250
         x-checker-data:
           type: rotating-url
           url: https://file-assets.apifox.com/download/Apifox-linux-arm64-deb-latest.zip
